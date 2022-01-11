@@ -3,7 +3,7 @@
 ## Basic Concepts
 ## Advance Concepts
 1. Dynamic 2D Data Loader
-2. Custom Loss
+2. [Custom Loss](https://github.com/tanish3/Pytorch_tutorials/blob/main/Custom_Loss.ipynb)
 3. Custom Optimizer
 
 ## Deep Learning Pathway
