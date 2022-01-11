@@ -1,5 +1,10 @@
 # Pytorch_tutorials
 
+## Basic Concepts
+## Advance Concepts
+1. Dynamic 2D Data Loader
+2. Custom Loss
+3. Custom Optimizer
 
 ## Deep Learning Pathway
 
