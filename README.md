@@ -1,7 +1,7 @@
 # Pytorch_tutorials
 
 
-## Deep Learning Learning Pathway
+## Deep Learning Pathway
 
 ### Task list
 1. Linear Regression
